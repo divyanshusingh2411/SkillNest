@@ -1,0 +1,30 @@
+.LandingPageUpperNavbar {
+    background-color: #D2E4C7;
+    height: 75px;
+}
+
+.AppNavbarButtons{
+    padding: 20px;
+    float: right; 
+}
+
+.SkillNestLogo{
+    float: left;
+}
+
+.SkillNestLogo img{
+    width: 120px;
+    height: auto;
+    max-width: 140px;
+    margin-left: 40px;
+}
+
+.SearchBar {
+    float: left;
+    margin-left: 25%;
+    margin-top: 0.4%;
+}
+
+.MuiFormControl-root.MuiFormControl-fullWidth.MuiTextField-root.css-cmpglg-MuiFormControl-root-MuiTextField-root {
+    width: 30vw;
+}
